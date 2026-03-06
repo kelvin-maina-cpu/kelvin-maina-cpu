@@ -38,7 +38,8 @@ const kelvin = {
 };
 </td>
 <td width="40%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-maina-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kelvin-maina-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,scss,less" alt="Top Languages" />
+  
 </td>
 </tr>
 </table>
@@ -72,26 +73,29 @@ Tools & Platforms
 </p>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-📊 GitHub Analytics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kelvin-maina-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin-maina-cpu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
 <br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvin-maina-cpu&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🏆 Featured Projects
-<div align="center">
-<a href="https://github.com/kelvin-maina-cpu/PCEA-membley-school2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelvin-maina-cpu&repo=PCEA-membley-school2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/kelvin-maina-cpu/kelvin-maina-cpu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelvin-maina-cpu&repo=kelvin-maina-cpu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-</div>
+
+## 🏆 Featured Projects
+
+&lt;div align="center"&gt;
+
+### 📚 PCEA Embley School
+[![Repo](https://img.shields.io/badge/PCEA%20Embley%20School-View%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/kelvin-maina-cpu/PCEA-membley-school2)
+![CSS](https://img.shields.io/badge/CSS-1%20file-orange?style=flat-square&logo=css3)
+
+A school website project built with modern web technologies.
+
+---
+
+### 👤 GitHub Profile
+[![Repo](https://img.shields.io/badge/GitHub%20Profile-View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/kelvin-maina-cpu/kelvin-maina-cpu)
+
+My personal GitHub profile README with animations and stats.
+
+&lt;/div&gt;
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🐍 Contribution Snake
