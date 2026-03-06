@@ -43,9 +43,9 @@ const kelvin = {
 </tr>
 </table>
 <!-- Animated Divider -->
-## 🛠️ Tech Stack
-
-### Frontend
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🛠️ Tech Stack
+Frontend
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -54,8 +54,7 @@ const kelvin = {
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
-
-### Backend
+Backend
 <p>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -63,8 +62,7 @@ const kelvin = {
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-### Tools & Platforms
+Tools & Platforms
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -72,6 +70,8 @@ const kelvin = {
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 📊 GitHub Analytics
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kelvin-maina-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
@@ -85,25 +85,34 @@ const kelvin = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🏆 Featured Projects
 <div align="center">
-<!-- Project 1 -->
 <a href="https://github.com/kelvin-maina-cpu/PCEA-membley-school2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelvin-maina-cpu&repo=PCEA-membley-school2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
-<!-- Project 2 -->
 <a href="https://github.com/kelvin-maina-cpu/kelvin-maina-cpu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelvin-maina-cpu&repo=kelvin-maina-cpu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelvin-maina-cpu/kelvin-maina-cpu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kelvin-maina-cpu/kelvin-maina-cpu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kelvin-maina-cpu/kelvin-maina-cpu/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🌐 Connect With Me
+<div align="center">
 <a href="https://www.linkedin.com/in/kelvin-maina-a5a239354">
-<img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Maina-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Maina-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:km542754@gmail.com">
-<img src="https://img.shields.io/badge/Email-km542754%40gmail.com-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-km542754%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
+</div>
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
@@ -115,4 +124,3 @@ const kelvin = {
 <div align="center">
   <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
 </div>
-
