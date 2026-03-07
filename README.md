@@ -28,13 +28,12 @@
 <tr>
 <td width="60%">
 
-javascript
 const kelvin = {
   location: "Kenya 🇰🇪",
-  role: "Professional Full Stack Developer",
-  currentFocus: "Building modern web experiences",
-  passions: ["Clean Code", "UI/UX Design", "Open Source"],
-  funFact: "I debug with console.log and I'm not ashamed! ☕"
+  role: "Full Stack MERN Developer",
+  currentFocus: "Building scalable web apps with SEO, LLM & CRM integrations",
+  passions: ["Clean Code", "UI/UX Design", "Open Source", "Problem Solving"],
+  goal: "Building technology that solves real-world problems"
 };
 </td>
 <td width="40%" align="center">
